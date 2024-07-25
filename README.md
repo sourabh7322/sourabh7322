@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Sourabh Rawat</h1>
-<p>a full-stack web developer with a passion for building dynamic and responsive web applications. With expertise in front-end technologies like HTML, CSS, JavaScript, and React, and back-end frameworks such as Node.js and Django, I craft seamless and efficient digital solutions. I enjoy tackling complex challenges, optimizing performance, and delivering user-friendly experiences. I'm committed to continuous learning, exploring new technologies, and contributing to the tech community. Feel free to explore my projects and reach out to connect!
+<p>A full-stack web developer with a passion for building dynamic and responsive web applications. With expertise in front-end technologies like HTML, CSS, JavaScript, and React, and back-end frameworks such as Node.js and Django, I craft seamless and efficient digital solutions. I enjoy tackling complex challenges, optimizing performance, and delivering user-friendly experiences. I'm committed to continuous learning, exploring new technologies, and contributing to the tech community. Feel free to explore my projects and reach out to connect!
 
 
 
